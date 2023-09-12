@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="e7979d7d-6de6-475f-aa06-93b6ce1ff5f8"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="331db972-b313-4cc9-95b1-bc4c46fefdd0"  >
+</g>
+<g transform="matrix(1 0 0 1 484.2 539.34)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(74,108,247); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-12.5, -12.5)" d="M 0 0 C 13.8071 0 25 11.1929 25 25 L 2 25 C 0.89543 25 0 24.1046 0 23 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 490.2 539.34)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(74,108,247); fill-rule: nonzero; opacity: 0.5;" vector-effect="non-scaling-stroke"  transform=" translate(-18.5, -12.5)" d="M 6 25 C 6 11.1929 17.1929 0 31 0 L 31 23 C 31 24.1046 30.1046 25 29 25 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 559.99 540)" style="" id="54e6c868-292d-4086-8108-d0f40be3ecee"  >
+		<text xml:space="preserve" font-family="Lato" font-size="19" font-style="normal" font-weight="900" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(9,14,52); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-51.74" y="5.97" >CryptoNews</tspan></text>
+</g>
+</svg>
